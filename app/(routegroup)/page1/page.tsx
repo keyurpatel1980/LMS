@@ -1,7 +1,7 @@
 const HomePage = () => {
     return ( 
         <div>
-            This is a home page from Layout 1
+            This is a page 1 using Group Layout
         </div>
      );
 }
